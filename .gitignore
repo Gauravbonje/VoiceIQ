@@ -1,0 +1,37 @@
+# Virtual Environments
+venv/
+venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs
+logs/
+
+# Data folders
+data/raw/
+data/processed/
+data/embeddings/
+
+# Large transcripts
+data/transcripts/
+
+# Mac files
+.DS_Store
+
+# VSCode
+.vscode/
+
+
+
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
