@@ -152,13 +152,6 @@ During development, several real-world AI engineering challenges were encountere
 
 ---
 
-# Screenshots
-
-## Dashboard UI
-
-Add project dashboard screenshot here.
-
----
 
 ## Transcript Analysis
 
